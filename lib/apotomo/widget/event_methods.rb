@@ -21,7 +21,7 @@ module Apotomo
       end
       
       inheritable_attr :responds_to_event_options
-      self.responds_to_event_options = []
+      self.`responds_to_event_options = []
     end
     
     
