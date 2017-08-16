@@ -70,8 +70,8 @@ module Apotomo
 
 
 
-        p "PAGE UPDATES:"
-        p page_updates.inspect
+        Rails.logger.info "PAGE UPDATES:"
+        Rails.logger.info page_updates.inspect
 
         render nothing: true
 
