@@ -67,6 +67,9 @@ module Apotomo
 
         return render_iframe_updates(page_updates) if params[:apotomo_iframe]
 
+
+
+
         p "PAGE UPDATES:"
         p page_updates.inspect
 

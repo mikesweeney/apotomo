@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a70ca411-d9d2-498b-9c16-194e6b35f791" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apotomo/rails/controller_methods.rb" afterPath="$PROJECT_DIR$/lib/apotomo/rails/controller_methods.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/apotomo/widget/event_methods.rb" afterPath="$PROJECT_DIR$/lib/apotomo/widget/event_methods.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="controller_methods.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/apotomo/rails/controller_methods.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+            <state relative-caret-position="310">
+              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,12 +179,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502899938561</updated>
-      <workItem from="1502899941183" duration="1033000" />
+      <workItem from="1502899941183" duration="1324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1033000" />
+    <option name="totallyTimeSpent" value="1324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -231,8 +230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/apotomo/rails/controller_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+        <state relative-caret-position="310">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding />
         </state>
       </provider>
