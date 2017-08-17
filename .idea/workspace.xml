@@ -17,8 +17,8 @@
       <file leaf-file-name="controller_methods.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/apotomo/rails/controller_methods.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="69" column="21" lean-forward="false" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+            <state relative-caret-position="350">
+              <caret line="69" column="74" lean-forward="false" selection-start-line="69" selection-start-column="74" selection-end-line="69" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -29,7 +29,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-              <folding />
+              <folding>
+                <marker date="1502960157000" expanded="true" signature="14:1734" ph=" ... end" />
+                <marker date="1502960157000" expanded="true" signature="39:1730" ph=" ... end" />
+                <marker date="1502960157000" expanded="true" signature="607:759" ph="##..." />
+                <marker date="1502960157000" expanded="true" signature="1354:1394" ph=" ... end" />
+                <marker date="1502960157000" expanded="true" signature="1404:1520" ph="##..." />
+                <marker date="1502960157000" expanded="true" signature="1549:1724" ph=" ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -231,7 +238,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4283000" />
+    <option name="totallyTimeSpent" value="4490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -248,6 +255,8 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -310,15 +319,84 @@
     <entry file="file://$PROJECT_DIR$/lib/apotomo/request_processor.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding />
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <marker date="1502960157000" expanded="true" signature="14:1734" ph=" ... end" />
+            <marker date="1502960157000" expanded="true" signature="39:1730" ph=" ... end" />
+            <marker date="1502960157000" expanded="true" signature="607:759" ph="##..." />
+            <marker date="1502960157000" expanded="true" signature="1354:1394" ph=" ... end" />
+            <marker date="1502960157000" expanded="true" signature="1404:1520" ph="##..." />
+            <marker date="1502960157000" expanded="true" signature="1549:1724" ph=" ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/apotomo/rails/controller_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="69" column="21" lean-forward="false" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+        <state relative-caret-position="423">
+          <caret line="69" column="73" lean-forward="false" selection-start-line="69" selection-start-column="73" selection-end-line="69" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/apotomo/widget/event_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/apotomo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/apotomo/rails/view_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/apotomo/widget/javascript_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/apotomo/request_processor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <marker date="1502960157000" expanded="true" signature="14:1734" ph=" ... end" />
+            <marker date="1502960157000" expanded="true" signature="39:1730" ph=" ... end" />
+            <marker date="1502960157000" expanded="true" signature="607:759" ph="##..." />
+            <marker date="1502960157000" expanded="true" signature="1354:1394" ph=" ... end" />
+            <marker date="1502960157000" expanded="true" signature="1404:1520" ph="##..." />
+            <marker date="1502960157000" expanded="true" signature="1549:1724" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/apotomo/rails/controller_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="69" column="74" lean-forward="false" selection-start-line="69" selection-start-column="74" selection-end-line="69" selection-end-column="74" />
           <folding />
         </state>
       </provider>
